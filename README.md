@@ -14,7 +14,6 @@ business recommendations.
 ### Bombas Socks Customer Revenue Dashboard
 **Tools:** Tableau, Excel, Power Query  
 **Files:** `BombasData_Completed.xlsx`  
-**Tableau Public:** [Link — add once published]
 
 Analyzed first-order revenue and customer behavior data 
 across 1,000+ records for Bombas, a direct-to-consumer 
@@ -41,7 +40,7 @@ timing. Geographic view revealed regional demand
 concentration. Full funnel tracking (site visits → 
 product views → add-to-cart → checkout → orders) 
 surfaced conversion drop-off points.
-
+![Analysis Preview](bombas_revenue_chart.png)
 ---
 
 ### Hotel Reservation Cancellation Analysis
@@ -73,7 +72,7 @@ Business recommendations:
    to match demand peaks
 3. Prioritize marketing investment in the online segment 
    as the primary revenue channel
-
+![Analysis Preview](hotel_cancellation_analysis.png)
 ---
 
 ### Retail Sales Star Schema & Data Model
@@ -114,3 +113,4 @@ used in production Power BI environments.
 ## Tools
 Microsoft Excel · Power Query · Power Pivot · DAX · 
 Tableau · Pivot Tables
+![Analysis Preview](star_schema_model.png)
