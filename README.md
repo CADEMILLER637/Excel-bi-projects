@@ -114,3 +114,32 @@ used in production Power BI environments.
 Microsoft Excel · Power Query · Power Pivot · DAX · 
 Tableau · Pivot Tables
 ![Analysis Preview](star_schema_model.png)
+
+Employee Retention Driver Analysis
+
+Analyzed employee attrition data to identify key drivers of turnover and quantify their impact on retention rates and organizational costs.
+
+Workbook / analysis components:
+
+Retention rate by job satisfaction level
+Retention rate by salary tier
+Retention rate by hours worked per week
+Retention rate by recent promotion status
+Supporting pivot tables and summary charts for each variable
+Cleaned dataset used for analysis
+
+Key findings:
+
+Job satisfaction is the strongest predictor of retention, with a sharp drop from ~85–95% retention (high satisfaction) to ~42–47% (low satisfaction)
+Higher salary levels correlate with increased retention, though compensation alone does not fully prevent attrition
+Employees working 40–50 hours per week show the highest retention (~97%), while >60 hours indicates burnout risk
+Employees without recent promotions are significantly more likely to leave (~14% higher attrition)
+
+Business recommendations:
+
+Improve employee satisfaction through regular evaluations and feedback systems
+Reassess and benchmark compensation to remain competitive
+Limit excessive overtime and promote work-life balance initiatives
+Increase promotion opportunities and career progression visibility
+Tools: Excel (Pivot Tables, Data Visualization), Data Analysis
+File: Employee AttritionData Cade Miller.xlsx
